@@ -104,6 +104,7 @@ ALLOWED_ORIGINS = {
     "http://localhost:5173",
 "http://localhost:5176",
     "https://myfocusvibes.netlify.app",
+    "https://mytradingvibes.vercel.app",
     "http://localhost:5174",
     "http://localhost:5175",
     "http://localhost:5176",
