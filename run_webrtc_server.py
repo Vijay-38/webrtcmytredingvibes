@@ -111,6 +111,7 @@ ALLOWED_ORIGINS = {
     "http://localhost:5177",
     "https://localhost",
     "https://flask123.pythonanywhere.com",
+    "https://tradesimulatorx.vercel.app"
 }
 
 app = Flask(__name__)
